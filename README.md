@@ -1,4 +1,4 @@
-# Sistema de Registro de Alumnos
+# Presentación
 
 Este repositorio **es un proyecto creado con el propósito de ser evaluado en el contexto de un curso de Fundamentos de Python**, con el objetivo de obtener la certificación correspondiente. Su función principal es **calcular el promedio de calificaciones de los estudiantes** utilizando exclusivamente los conceptos esenciales de Python.
 
@@ -22,7 +22,7 @@ Este repositorio **es un proyecto creado con el propósito de ser evaluado en el
 
 ---
 
-- Estado del Proyecto: ![Porcentaje](https://img.shields.io/badge/Versi%C3%B3n-100%25-light%20green)
+- Estado del Proyecto: ![Porcentaje](https://img.shields.io/badge/Porcentaje-100%25-%20light%20green)
 - Versión Actual: ![Versión](https://img.shields.io/badge/Versi%C3%B3n-2.0.0-blue)
 
 # Capturas de pantalla
@@ -105,4 +105,4 @@ El código proporcionado permite realizar estas tareas de manera eficiente y pre
 
 Este proyecto tiene como único propósito la aplicación de conceptos fundamentales de Python, con el fin de prepararse para obtener la certificación en "Fundamentos de Python".
 
-- [Regresar al inicio](#sistema-de-registro-de-alumnos)
+- [Regresar al inicio](#presentación)
