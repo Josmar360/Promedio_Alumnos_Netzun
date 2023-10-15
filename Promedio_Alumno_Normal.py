@@ -29,7 +29,7 @@ while N >= i:
         Calificacion_Curso = float(input("Dame la calificacion de la materia: "))
 
         #Condicion If para validar la califiacion
-        if (0 <= Calificacion_Curso <= 20):  
+        if (0 <= Calificacion_Curso <= 10):  
             #Condicion if para comparar la calificion maxima y minima
             if (Calificacion_Curso > nota_mayor):
                 nota_mayor = Calificacion_Curso
@@ -54,7 +54,7 @@ while N >= i:
 
     #Uso de if para indicar si paso el curso o no
     print("El promedio del alumno es: ", Promedio)
-    if (Promedio > 10.5):
+    if (Promedio > 6):
         print("Felicidades, aprobo el curso...")
     else:
         print("Ha desaprobado el curso...")
