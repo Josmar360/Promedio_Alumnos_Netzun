@@ -13,6 +13,7 @@ Este repositorio **es un proyecto creado con el propósito de ser evaluado en el
 - [Badges](#badges)
 - [Capturas de pantalla](#capturas-de-pantalla)
 - [Descripción del proyecto](#descripción-del-proyecto)
+- [Herramientas utilizadas](#herramientas-utilizadas)
 - [Guía de instalación](#guía-de-instalación)
 - [Autor](#autores)
 - [Información adicional](#información-adicional)
@@ -57,6 +58,14 @@ Este proyecto tiene como objetivo crear **un sistema de registro de alumnos y su
 Este sistema proporciona a los usuarios una manera sencilla de registrar y evaluar el desempeño de los alumnos en diversas materias. Es útil para maestros, administradores escolares o cualquier persona que necesite llevar un registro de calificaciones de estudiantes.
 
 El código proporcionado permite realizar estas tareas de manera eficiente y precisa, aunque aún hay margen para mejoras adicionales, como validación de datos más robusta y una interfaz de usuario más amigable.
+
+# Herramientas utilizadas
+
+---
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Python 3.12.0](https://www.python.org/)
+- [Uso de Badges](https://shields.io/badges/static-badge)
 
 # Guía de instalación
 
