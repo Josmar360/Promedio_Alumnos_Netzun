@@ -3,7 +3,7 @@
 Este repositorio **es un proyecto creado con el propósito de ser evaluado en el contexto de un curso de Fundamentos de Python**, con el objetivo de obtener la certificación correspondiente. Su función principal es **calcular el promedio de calificaciones de los estudiantes** utilizando exclusivamente los conceptos esenciales de Python.
 
 <h1 align="center"> Sistema de Registro de Alumnos </h1>
-<p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
+<p align="center"> Presentación del programa </p>
 <p align="center"><img src="README/1_Portada.png"/></p>
 
 # Tabla de contenidos:
@@ -95,3 +95,5 @@ El código proporcionado permite realizar estas tareas de manera eficiente y pre
 ---
 
 Este proyecto tiene como único propósito la aplicación de conceptos fundamentales de Python, con el fin de prepararse para obtener la certificación en "Fundamentos de Python".
+
+- [Regresar al inicio](#sistema-de-registro-de-alumnos)
